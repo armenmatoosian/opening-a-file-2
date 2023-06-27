@@ -1,0 +1,147 @@
+Index,Company Name,Revenue,Net Income,Net Margin,Cash Flow
+AAPL,Apple Inc,94836,24160,25.48 %,5155
+SONY,Sony Group Corporation,81604.37,6672.86,8.18 %,2460.41
+PKX,Posco Holdings Inc,79053.36,3334.94,4.22 %,0
+TSM,Taiwan Semiconductor Manufacturing Company Limited,73670.4,32323.3,43.88 %,23798.5
+LPL,Lg Display Co Ltd,24321.16,2971.89,12.22 %,3922.83
+STM,Stmicroelectronics N v,16128,3966,24.59 %,33
+INTC,Intel Corporation,14042,-661,-,-2475
+NTES,Netease Inc,13990.58,2877.01,20.56 %,817.17
+DOW,Dow Inc,11851,-73,-,-510
+QCOM,Qualcomm Inc,9275,1704,18.37 %,-1291
+AVGO,Broadcom Inc,8733,3481,39.86 %,-1094
+JBL,Jabil Inc,8134,207,2.54 %,-17
+MMM,3m Company,8031,981,12.22 %,169
+FLEX,Flex Ltd,7459,363,4.87 %,729
+AMAT,Applied Materials Inc,6630,1575,23.76 %,1042
+LEA,Lear Corp,5845.5,163.4,2.8 %,12.7
+AMD,Advanced Micro Devices Inc,5048,-139,-,-1010
+TXN,Texas Instruments Incorporated,4379,1708,39 %,1427
+TEL,Te Connectivity ltd,4160,433,10.41 %,112
+MU,Micron Technology Inc,3693,-2312,-,116
+ADI,Analog Devices Inc,3262.93,977.66,29.96 %,-492.85
+GLW,Corning Inc,3178,191,6.01 %,-525
+NXPI,Nxp Semiconductors N v,3121,623,19.96 %,85
+DD,Dupont De Nemours Inc,3018,265,8.78 %,-136
+APH,Amphenol Corporation,2974,442.7,14.89 %,18
+WDC,Western Digital Corporation,2803,-572,-,349
+GRAYB,Graybar Electric Company Inc,2672.6,125,4.68 %,103.6
+MOMO,Hello Group Inc,2287.25,-459.11,-,357.93
+MCHP,Microchip Technology Incorporated,2232.7,604,27.05 %,-83.4
+SANM,Sanmina Corporation,2231.71,48.99,2.2 %,36.55
+DOV,Dover Corp,2079.02,514.86,24.76 %,-108.44
+ON,On Semiconductor Corporation,1959.7,462.2,23.59 %,-216.4
+STX,Seagate Technology Holdings Plc,1860,-433,-,-4
+AMKR,Amkor Technology Inc,1471.54,45.22,3.07 %,-49.11
+RRD,Rr Donnelley and Sons Co,1377.2,-13.4,-,29.3
+SEE,Sealed Air Corp,1348.8,61.9,4.59 %,-153
+MRVL,Marvell Technology Inc,1321.7,63.4,4.8 %,117.3
+SWKS,Skyworks Solutions Inc,1153.1,232.8,20.19 %,12.7
+PLXS,Plexus Corp,1070.82,40.84,3.81 %,-27.56
+PNR,Pentair Plc,1028.6,129.7,12.61 %,10.3
+AKAM,Akamai Technologies Inc,915.7,97.11,10.6 %,-241.38
+MTCH,Match Group Inc,787.12,120.93,15.36 %,-6.85
+MXIM,Maxim Integrated Products Inc,719.86,253.74,35.25 %,250.68
+APP,Applovin Corporation,715.41,-4.52,-,165.41
+GEN,Gen Digital Inc,715.35,1210.93,169.28 %,-62
+BHE,Benchmark Electronics Inc,694.7,12.36,1.78 %,68.58
+FN,Fabrinet,665.28,59.36,8.92 %,-19.85
+NVMI,Nova Ltd,570.73,140.21,24.57 %,-14.98
+TTMI,Ttm Technologies Inc,544.44,-5.81,-,14.7
+PTC,Ptc Inc,542.18,63.5,11.71 %,48.31
+KE,Kimball Electronics Inc,484.7,16.4,3.38 %,5.44
+MATW,Matthews International Corp,479.58,9.13,1.9 %,-3.2
+TDC,Teradata Corporation,476,40,8.4 %,-16
+DIOD,Diodes Inc,467.24,71.98,15.4 %,-15.19
+MPWR,Monolithic Power Systems Inc,451.07,109.8,24.34 %,200.37
+NTNX,Nutanix Inc,448.58,-70.97,-,33.06
+SGH,Smart Global Holdings Inc,429.17,-26.79,-,49.26
+ZS,Zscaler Inc,418.8,-46.05,-,18.29
+CRUS,Cirrus Logic Inc,372.82,-53.67,-,11.24
+LITE,Lumentum Holdings Inc,364.7,9.4,2.58 %,-42.9
+SYNA,Synaptics Incorporated,326.6,10.4,3.18 %,79.2
+CCMP,Cmc Materials Inc,324.13,34.57,10.67 %,37.66
+OSIS,Osi Systems inc,302.89,21.81,7.2 %,20.02
+NET,Cloudflare Inc,290.18,-38.08,-,53.23
+ZI,Zoominfo Technologies Inc,265.7,44.5,16.75 %,59.7
+SLAB,Silicon Laboratories Inc,257.33,25.36,9.86 %,-791.17
+NTGR,Netgear Inc,249.1,-6.04,-,-2.55
+MXL,Maxlinear Inc,248.44,9.53,3.84 %,20.48
+VIAV,Viavi Solutions Inc,247.8,-6,-,20.4
+SRI,Stoneridge Inc,241.33,-7.39,-,-19.63
+SMTC,Semtech Corp,236.54,-29.42,-,-71.31
+ALGM,Allegro Microsystems Inc,233.36,62.01,26.57 %,14.58
+TUYA,Tuya Inc,208.17,-146.18,-,805.62
+VIAO,Via Optronics Ag,202.5,-12.89,-,0
+LSCC,Lattice Semiconductor Corp,184.31,55.92,30.34 %,-33.59
+CXM,Sprinklr Inc,173.36,2.81,1.62 %,2.48
+BELFB,Bel Fuse Inc,172.34,14.57,8.46 %,7.57
+MTSI,Macom Technology Solutions Holdings Inc,169.41,25.76,15.2 %,10.42
+KTCC,Key Tronic Corp,164.55,1.98,1.2 %,-0.77
+HLIT,Harmonic Inc,157.65,5.09,3.23 %,1.29
+ATRO,Astronics Corporation,156.54,-4.42,-,-8.06
+SILC,Silicom Ltd,150.58,18.31,12.16 %,8.61
+CTS,Cts Corporation,145.99,18.34,12.56 %,-13.37
+KN,Knowles Corporation,144.3,-5.2,-,3.8
+APPS,Digital Turbine Inc,140.12,-13.85,-,-4.3
+APPN,Appian Corporation,135.24,-36.83,-,50.58
+AOSL,Alpha And Omega Semiconductor Limited,132.56,-18.91,-,-21.93
+JAMF,Jamf Holding Corp,132.21,-24.2,-,-24.1
+CMCM,Cheetah Mobile Inc,128.18,-75.49,-,48.25
+MNTV,Momentive Global Inc,118.82,-23.82,-,-3.61
+ADEA,Adeia Inc,117.31,29.02,24.74 %,-32.13
+DUOL,Duolingo Inc,115.66,-2.58,-,32.91
+RMBS,Rambus Inc,113.76,3.28,2.88 %,-25.82
+DGII,Digi International Inc,111.14,5.9,5.31 %,-3.24
+LPSN,Liveperson Inc,107.66,-17.42,-,-150.04
+NPTN,Neophotonics Corp,95.01,9.31,9.79 %,-2.01
+SGMA,Sigmatron International Inc,93.22,-23.08,-,-0.92
+PRCH,Porch Group inc,87.37,-38.74,-,-34.45
+OIG,Orbital Infrastructure Group Inc,80.19,-20.53,-,2.59
+MYPS,Playstudios Inc,79.07,-2.57,-,-6.52
+RELL,Richardson Electronics Ltd,70.36,6.34,9.01 %,3.07
+AMBA,Ambarella Inc,62.14,-35.9,-,14.2
+CRDO,Credo Technology Group Holding Ltd,54.27,2.82,5.2 %,-66.76
+AAOI,Applied Optoelectronics Inc,53.03,-16.29,-,-8.64
+IEC,Iec Electronics Corp,49.37,1.03,2.08 %,-0.28
+ONTF,On24 Inc,43.06,-17.59,-,73.78
+SITM,Sitime Corporation,38.34,-16.49,-,3.66
+DSPG,Dsp Group Inc,37.76,-0.03,-,4.25
+PRKR,Parkervision Inc,25,13.12,52.46 %,13.95
+EMKR,Emcore Corporation,24.95,-11.69,-,0.66
+ALPP,Alpine 4 Holdings Inc,24.36,-5.77,-,-2.2
+BLZE,Backblaze Inc,23.39,-17.11,-,0.35
+PCTI,Pctel Inc,22.97,1.32,5.76 %,0.96
+NLST,Netlist Inc,21.66,-12.95,-,-16.95
+BKTI,Bk Technologies Corporation,18.72,-1.27,-,0.91
+SIF,Sifco Industries Inc,18.63,-6.92,-,1.05
+CETX,Cemtrex Inc,16.07,-0.54,-,0.26
+MRAM,Everspin Technologies Inc,14.85,0.76,5.13 %,-2.58
+GNUS,Genius Brands International Inc,14.19,-24.79,-,-2.67
+NVEC,Nve Corp,12.8,8.23,64.33 %,-0.36
+HIHO,Highway Holdings Limited,12.37,0.47,3.78 %,-1.08
+SMSI,Smith Micro Software Inc,10.93,-6.89,-,-5.3
+PXLW,Pixelworks Inc,9.97,-9.73,-,6.02
+SPRS,Surge Components Inc,9.19,0.4,4.3 %,1.5
+AKTS,Akoustis Technologies Inc,7.36,-15.55,-,6.18
+SEAC,Seachange International Inc,6.99,-0.71,-,0.39
+ZDGE,Zedge Inc,6.73,-7.69,-,0.61
+GSIT,Gsi Technology Inc,6.45,-4.81,-,-0.93
+MPAD,Micropac Industries Inc,6.19,-0.06,-,-2.13
+QUMU,Qumu Corporation,5.47,-1.37,-,-0.4
+PRSO,Peraso Inc,5.03,-3.15,-,-1.02
+QUIK,Quicklogic Corp,4.13,-1.23,-,1.7
+AMPG,Amplitech Group Inc,4.11,-0.58,-,-5.69
+TAIT,Taitron Components Incorporated,2.09,0.76,36.53 %,-0.36
+INTZ,Intrusion Inc,1.31,-4.73,-,-2.6
+RESN,Resonant Inc,0.53,-9.09,-,5.86
+FRZT,Freeze Tag Inc,0.51,-0.05,-,-0.08
+RKLY,Rockley Photonics Holdings Limited,0.23,-72.45,-,18.11
+FDBL,Friendable Inc,0.05,-1.37,-,-0.02
+ASFT,Appsoft Technologies Inc,0,-0.02,-,0
+KGNR,Kange Corp,0,-0.02,-,0
+LWLG,Lightwave Logic Inc,0,-5.48,-,2.07
+RBTK,Zhen Ding Resources Inc,0,-0.14,-,0
+URSL,Startech Labs Inc,0,-0.01,-,0
+WDDD,Worlds Inc,0,-0.03,-,0.07
+QRVO,Qorvo Inc,-2564091,-983.15,-,-110
