@@ -10,3 +10,4 @@ with open("openbb_Suppliers_for_AAPL_20230624_042437.csv", 'r') as file:
   csvreader = csv.DictReader(file)
   for row in csvreader:
       print(row["Company Name"])
+  file.close()
